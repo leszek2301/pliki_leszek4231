@@ -1,0 +1,335 @@
+#EXTM3U
+#EXTINF:-1,..::Pobrano z Darmowe-IPTV.eeu.PL::..
+https://leszek2301.github.io/pliki_leszek4231/darmoweiptv.mp4
+#EXTINF:0 tvg-id="13 Ulica" tvg-name="13 Ulica" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,13 Ulica HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46096&extension=ts&play_token=GiWLIEJgn4
+#EXTINF:0 tvg-id="4FUN DANCE" tvg-name="4FUN DANCE" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="7" catchup="fs" group-title="Muzyka" ,4FUN DANCE
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25361&extension=ts&play_token=RTmo97xj57
+#EXTINF:0 tvg-id="4FUN KIDS" tvg-name="4FUN KIDS" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png" timeshift="7" catchup="fs" group-title="Muzyka" ,4FUN KIDS
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25360&extension=ts&play_token=s1SKJDOqno
+#EXTINF:0 tvg-id="4FUN TV" tvg-name="4FUN TV" tvg-logo="http://logo.plusx.tv/logo/4Fun.png" timeshift="7" catchup="fs" group-title="Muzyka" ,4FUN TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25359&extension=ts&play_token=msUKooUfNl
+#EXTINF:0 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,AMC HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25358&extension=ts&play_token=umx2PRzwfU
+#EXTINF:0 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,AXN Black
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25356&extension=ts&play_token=zU4fGc6xel
+#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,AXN HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46089&extension=ts&play_token=ddqnaC40p8
+#EXTINF:0 tvg-id="AXN Spin" tvg-name="AXNSpinHD" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,AXN Spin HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25419&extension=ts&play_token=c402Mq5Fli
+#EXTINF:0 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,AXN White
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25355&extension=ts&play_token=asjsXgVKj1
+#EXTINF:0 tvg-id="Adventure" tvg-name="Adventure" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Adventure HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25357&extension=ts&play_token=4b5EHQhTjk
+#EXTINF:0 tvg-id="Active Family" tvg-name="Active Family" tvg-logo="http://epg.ovh/logo/Active+Family.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Active Family
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35663&extension=ts&play_token=tat26nYMCF
+#EXTINF:0 tvg-id="Ale Kino+" tvg-name="Ale Kino!" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Ale Kino+ HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11491&extension=ts&play_token=dC7sBCZtuU
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Animal Planet HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11492&extension=ts&play_token=P3Wxob1Eil
+#EXTINF:0 tvg-id="HGTV.uk" tvg-name="HGTV.uk" tvg-logo="https://epg.ovh/logo/Home+TV.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Home TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25370&extension=ts&play_token=3XPCaS7jCK
+#EXTINF:0 tvg-id="BBC Brit" tvg-name="BBC-Brit" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,BBC Brit HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35635&extension=ts&play_token=ScanWoUtw2
+#EXTINF:0 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,BBC Earth HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11503&extension=ts&play_token=Qm5JovliSx
+#EXTINF:0 tvg-id="BBC First" tvg-name="BBC Fisrt" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,BBC First HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11502&extension=ts&play_token=YCy3XHFSuS
+#EXTINF:0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,BBC Lifestyle HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35636&extension=ts&play_token=QlghFB47nq
+#EXTINF:0 tvg-id="Baby TV" tvg-name="BabyTV" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Baby TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25354&extension=ts&play_token=gzHckah16I
+#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logo.plusx.tv/logo/Boomerang%20HD.png" timeshift="5" catchup="default group-title="Dla Dzieci" ,Boomerang HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11504&extension=ts&play_token=Q7GwB2FeUU
+#EXTINF:0 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46094&extension=ts&play_token=paiudS0s1I
+#EXTINF:0 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Film HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46093&extension=ts&play_token=gYll8xwW9F
+#EXTINF:0 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=85895&extension=ts&play_token=gi6vNNsHrJ
+#EXTINF:0 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Now HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=41515&extension=ts&play_token=RbWEoCQ3vD
+#EXTINF:0 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Seriale HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46095&extension=ts&play_token=i7xD33fGKY
+#EXTINF:0 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=18013&extension=ts&play_token=C1jk2FVAqm
+#EXTINF:0 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=18014&extension=ts&play_token=SC15hQfbKM
+#EXTINF:0 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=42359&extension=ts&play_token=7YyBqL0G5e
+#EXTINF:0 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 4 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=42360&extension=ts&play_token=05466OutMw
+#EXTINF:0 tvg-id="Canal+ Sport 5 HD" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 5 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=256446&extension=ts&play_token=1P8rWy9h1A
+#EXTINF:0 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=256442&extension=ts&play_token=ZQ6QXeDS9n
+#EXTINF:0 tvg-id="CBS Europa" tvg-name="CBS Europa HD" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CBS Europa HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26535&extension=ts&play_token=ujvDDNX7ki
+#EXTINF:0 tvg-id="CBS REALITY" tvg-name="CBS Reality" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png" timeshift="7" catchup="fs" group-title="Dokument" ,CBS Reality
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26534&extension=ts&play_token=N02m3mGVcB
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Cartoon Network HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26537&extension=ts&play_token=fo7p3Dolsi
+#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Cinemax HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11493&extension=ts&play_token=c8ZH6STogN
+#EXTINF:0 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Cinemax 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26533&extension=ts&play_token=8jm0rgNtvN
+#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Comedy Central HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26532&extension=ts&play_token=ggJbMsIgTn
+#EXTINF:0 tvg-id="CI Polsat" tvg-name="Crime and Investigation" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png" timeshift="7" catchup="fs" group-title="Dokument" ,CI Polsat HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=59420&extension=ts&play_token=n4WKnTRIPY
+#EXTINF:0 tvg-id="DTX" tvg-name="Discovery Turbo Xtra" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,DTX HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35380&extension=ts&play_token=WHiCrKgYDK
+#EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png" timeshift="7" catchup="fs" group-title="Dokument" ,Da Vinci Learning
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10419&extension=ts&play_token=x5SCzpBaPb
+#EXTINF:0 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Disco Polo Music
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26531&extension=ts&play_token=bWDxChh9bE
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Discovery Channel HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35661&extension=ts&play_token=CfF10mGFLQ
+#EXTINF:0 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png" timeshift="7" catchup="fs" group-title="Dokument" ,Discovery Historia
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35660&extension=ts&play_token=LeiMEbTrMa
+#EXTINF:0 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png" timeshift="7" catchup="fs" group-title="Dokument" ,Discovery Life HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46074&extension=ts&play_token=bPDPus689t
+#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Disney Channel HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46071&extension=ts&play_token=0BUafsY4HG
+#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Disney XD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26528&extension=ts&play_token=G5OHlUyMS2
+#EXTINF:0 tvg-id="Canal+ Domo" tvg-name="Domo TV" tvg-logo="http://logo.plusx.tv/logo/Domo+.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Canal+ Domo HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46107&extension=ts&play_token=ZSNcvDoyGZ
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,E! Entertainment HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35659&extension=ts&play_token=lPFe3Y3k8k
+#EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="7" catchup="fs" group-title="4k" ,Eleven Sports 1 4K
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=348127&extension=ts&play_token=qb0NHLISmn
+#EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46079&extension=ts&play_token=IW3W86hZ0K
+#EXTINF:0 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46080&extension=ts&play_token=1MkxLhQvBw
+#EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26527&extension=ts&play_token=HURjfiGaES
+#EXTINF:0 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" timeshift="7" catchup="fs" group-title="Sport" ,Eleven Sports 4 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26526&extension=ts&play_token=7fZYHb85Nw
+#EXTINF:0 tvg-id="Epic Drama" tvg-name="Be1 Alt" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Epic Drama HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35668&extension=ts&play_token=ebhndAn5le
+#EXTINF:0 tvg-id="Eska TV" tvg-name="EPIC Drama HD" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Eska TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35657&extension=ts&play_token=qCXKDembSv
+#EXTINF:0 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Eurosport 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46077&extension=ts&play_token=m4To6EtAS9
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Eurosport 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46078&extension=ts&play_token=mbac1rf7L1
+#EXTINF:0 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,FightKlub HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35656&extension=ts&play_token=EHdxQ0uKTw
+#EXTINF:0 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,FightBox HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11496&extension=ts&play_token=yIBAazwSqh
+#EXTINF:0 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png" timeshift="7" catchup="fs" group-title="Film" ,Filmbox Family
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10415&extension=ts&play_token=JsCvDX6gsM
+#EXTINF:0 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png" timeshift="7" catchup="fs" group-title="Film" ,Filmbox Action
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11517&extension=ts&play_token=XDvnaRUH5G
+#EXTINF:0 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png" timeshift="7" catchup="fs" group-title="Film" ,Filmbox Arthouse
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26525&extension=ts&play_token=l9pAMRXqlw
+#EXTINF:0 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png" timeshift="7" catchup="fs" group-title="Film" ,Filmbox Extra
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11518&extension=ts&play_token=RRYqxAxad7
+#EXTINF:0 tvg-id="Filmbox Premium HD" tvg-name="FilmBox Premium" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png" timeshift="7" catchup="fs" group-title="Film" ,Filmbox Premium HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10404&extension=ts&play_token=jW8TRwJTkJ
+#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Food Network HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35655&extension=ts&play_token=MNQYS7pdhG
+#EXTINF:0 tvg-id="FOX Comedy" tvg-name="Fox Comedy" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,FOX Comedy HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46090&extension=ts&play_token=ufx1n3onLo
+#EXTINF:0 tvg-id="FOX" tvg-name="FOX (HD)" tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,FOX HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35654&extension=ts&play_token=L6zAa3Q60P
+#EXTINF:0 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png" timeshift="7" catchup="fs" group-title="Sport" ,Golf Channel HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35653&extension=ts&play_token=Or7ZjLXV0R
+#EXTINF:0 tvg-id="History 2" tvg-name="H2" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,H2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29366&extension=ts&play_token=pq1ZOnD1xi
+#EXTINF:0 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,HBO HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10407&extension=ts&play_token=6qoamwGuTQ
+#EXTINF:0 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,HBO 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10406&extension=ts&play_token=z0hpRjFXrC
+#EXTINF:0 tvg-id="HBO 3" tvg-name="HBO 3" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,HBO 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11497&extension=ts&play_token=jbH4H5BxlK
+#EXTINF:0 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,HGTV HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25370&extension=ts&play_token=3XPCaS7jCK
+#EXTINF:0 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,History HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25350&extension=ts&play_token=JkeDTGpLSk
+#EXTINF:0 tvg-id="ID" tvg-name="Investigation Discovery" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,ID HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26524&extension=ts&play_token=FlOZcdKc4E
+#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Kino Polska Muzyka
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=16782&extension=ts&play_token=elPK4CoH72
+#EXTINF:0 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png" timeshift="7" catchup="fs" group-title="Film" ,Kino Polska HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46091&extension=ts&play_token=kjnSAVW5Z2
+#EXTINF:0 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png" timeshift="7" catchup="fs" group-title="Film" ,Kino TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10408&extension=ts&play_token=tNTC97VqCX
+#EXTINF:0 tvg-id="Canal+ Kuchnia" tvg-name="Kuchnia.TV" tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Canal+ Kuchnia HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11498&extension=ts&play_token=fKakBsd7lp
+#EXTINF:0 tvg-id="Motowizja" tvg-name="Motowizja TV" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Motowizja HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35651&extension=ts&play_token=idsdEeXsla
+#EXTINF:0 tvg-id="MTV00s.eu" tvg-name="MTV00s.eu" tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png" timeshift="7" catchup="fs" group-title="Muzyka" ,MTV 00s
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26520&extension=ts&play_token=SP0VysZ4sE
+#EXTINF:0 tvg-id="MTV Polska" tvg-name="MTV" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png" timeshift="7" catchup="fs" group-title="Muzyka" ,MTV Polska HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35650&extension=ts&play_token=Cn9FoEEZjs
+#EXTINF:0 tvg-id="Vox Music TV" tvg-name="vox-music-tv" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,VOX Music TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35627&extension=ts&play_token=VyCWtbCLhu
+#EXTINF:0 tvg-id="METRO" tvg-name="Metro" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png" timeshift="7" catchup="fs" group-title="Popularny" ,Metro
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35631&extension=ts&play_token=CMoPZKXnMo
+#EXTINF:0 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,MiniMini+ HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10409&extension=ts&play_token=OuQuLXrhE0
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Nat Geo Wild HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25348&extension=ts&play_token=gNsIaywqWV
+#EXTINF:0 tvg-id="National Geographic Channel" tvg-name="National Geographic" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,National Geographic HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11513&extension=ts&play_token=CnakWiiRvs
+#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Nick Jr
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35649&extension=ts&play_token=3iBsKmZDGT
+#EXTINF:0 tvg-id="Nicktoons" tvg-name="Nickelodeon HD" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Nicktoons HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35667&extension=ts&play_token=awf7NqGUDM
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Nickelodeon
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35648&extension=ts&play_token=6UrPVkMjZu
+#EXTINF:0 tvg-id="Nuta TV" tvg-name="Nuta TV" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Nuta TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=34690&extension=ts&play_token=qWok7KoJWJ
+#EXTINF:0 tvg-id="NOWA TV" tvg-name="Nowa TV" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png" timeshift="7" catchup="fs" group-title="Popularny" ,Nowa TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35647&extension=ts&play_token=Tg8g8lFqXG
+#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Paramount Channel HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25366&extension=ts&play_token=aX0yep0RcM
+#EXTINF:0 tvg-id="Planete+" tvg-name="Planete" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Planete+ HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46102&extension=ts&play_token=rIyQ3Gx4Bf
+#EXTINF:0 tvg-id="Polo TV" tvg-name="PoloTV" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Polo TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35379&extension=ts&play_token=hDPjHz0N7a
+#EXTINF:0 tvg-id="Polsat Rodzina" tvg-name="Polsat Rodzina" tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Polsat Rodzina HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=30508&extension=ts&play_token=yONpq8OXMy
+#EXTINF:0 tvg-id="Polsat Games" tvg-name="Polsat Games" tvg-logo="http://logo.plusx.tv/logo/Polsat+Games.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Polsat Games HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=30507&extension=ts&play_token=AB7vI1Dzg2
+#EXTINF:0 tvg-id="Polsat 2" tvg-name="Polsat 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%202%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,Polsat 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46066&extension=ts&play_token=tOI07AAwLj
+#EXTINF:0 tvg-id="Polsat Café" tvg-name="Polsat Cafe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Cafe%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Polsat Cafe HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10410&extension=ts&play_token=1FgN1ILZEB
+#EXTINF:0 tvg-id="Polsat Doku" tvg-name="Polsat Doku" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Doku HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35378&extension=ts&play_token=X0d0oatvx3
+#EXTINF:0 tvg-id="Polsat Film" tvg-name="Polsat Film" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Polsat Film HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10411&extension=ts&play_token=eYiz7CmIQA
+#EXTINF:0 tvg-id="Polsat" tvg-name="Polsat" tvg-logo="http://logo.plusx.tv/logo/Polsat%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,Polsat HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46065&extension=ts&play_token=7m97MAb4zV
+#EXTINF:0 tvg-id="JimJam Polsat" tvg-name="JimJam" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,JimJam Polsat
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11515&extension=ts&play_token=HTUakMvs6C
+#EXTINF:0 tvg-id="Polsat Music" tvg-name="Polsat Music" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Polsat Music HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20609&extension=ts&play_token=oexXBFmYfX 
+#EXTINF:0 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png" timeshift="7" catchup="fs" group-title="Informacje" ,Polsat News 2
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35377&extension=ts&play_token=ATBCJ63hnF
+#EXTINF:0 tvg-id="Polsat News" tvg-name="Polsat News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,Polsat News HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29306&extension=ts&play_token=0MRRRf9WEd
+#EXTINF:0 tvg-id="Polsat Seriale" tvg-name="Polsat Seriale" tvg-logo="https://satkurier.pl/uploads/79469.jpg" timeshift="7" catchup="fs" group-title="Rozrywka" ,Polsat Seriale HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=85908&extension=ts&play_token=yYEXatqkJq
+#EXTINF:0 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Extra HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26522&extension=ts&play_token=PhrGErVbUW
+#EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Fight HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26521&extension=ts&play_token=jDcp33cpbm
+#EXTINF:0 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11519&extension=ts&play_token=IVsiAzZVAz
+#EXTINF:0 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport News HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=84196&extension=ts&play_token=P8UhXu7o9P
+#EXTINF:0 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 1 HD 50fps
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=27677&extension=ts&play_token=bjhaWHgWek
+#EXTINF:0 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=27677&extension=ts&play_token=bjhaWHgWek
+#EXTINF:0 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 2 HD 50fps
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=27678&extension=ts&play_token=1Gf2nk0sRo
+#EXTINF:0 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=27678&extension=ts&play_token=1Gf2nk0sRo
+#EXTINF:0 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+3.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29307&extension=ts&play_token=83TWAi3Yuk
+#EXTINF:0 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 4 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29305&extension=ts&play_token=zfRHyeS3qr
+#EXTINF:0 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+5.png" timeshift="7" catchup="fs" group-title="Sport" ,Polsat Sport Premium 5 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29304&extension=ts&play_token=1zIuPaEu2C
+#EXTINF:0 tvg-id="Polsat Viasat History" tvg-name="Viasat History" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat History HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20611&extension=ts&play_token=Gqg2JlgfNu
+#EXTINF:0 tvg-id="POLSAT Viasat Explore" tvg-name="Viasat Explorer" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat Explore HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20612&extension=ts&play_token=g5LxHpFK6b
+#EXTINF:0 tvg-id="Polsat Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat Nature HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20610&extension=ts&play_token=XrVwLtkQn3
+#EXTINF:0 tvg-id="POWER TV" tvg-name="Power TV" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Power TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35634&extension=ts&play_token=GTRgKpTO5E
+#EXTINF:0 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="http://epg.ovh/logo/Polonia+1.png" timeshift="7" catchup="fs" group-title="Popularny" ,Polonia 1
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=10423&extension=ts&play_token=X799AHHcgS
+#EXTINF:0 tvg-id="ROMANCE TV" tvg-name="Romance TV" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Romance TV HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35646&extension=ts&play_token=fJHBqJbRCw
+#EXTINF:0 tvg-id="SCI FI" tvg-name="SciFi" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" timeshift="7" catchup="fs" group-title="Film" ,SciFi HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35645&extension=ts&play_token=Q2v0IMTsYr
+#EXTINF:0 tvg-id="Stars TV" tvg-name="Stars TV" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png" timeshift="7" catchup="fs" group-title="Muzyka" ,Stars TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35643&extension=ts&play_token=H0Wk3u3c4N
+#EXTINF:0 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png" timeshift="7" catchup="fs" group-title="Film" ,Stopklatka TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=16781&extension=ts&play_token=n0psCj1DB4
+#EXTINF:0 tvg-id="Sundance TV" tvg-name="Sundance Channel HD" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Sundance TV HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25367&extension=ts&play_token=6OwrgMvXd4
+#EXTINF:0 tvg-id="Super Polsat" tvg-name="Super Polsat" tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,Super Polsat HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46105&extension=ts&play_token=RzqjG2OOPm
+#EXTINF:0 tvg-id="StudioMed TV" tvg-name="StudioMed TV" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,StudioMed TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=85902&extension=ts&play_token=SZQ1z6yK1z
+#EXTINF:0 tvg-id="Teletoon" tvg-name="Teletoon+" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Teletoon+ HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35641&extension=ts&play_token=U1y6LYS5co
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,TLC HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11499&extension=ts&play_token=uZzARlaQho
+#EXTINF:0 tvg-id="WB" tvg-name="WB" tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,WB HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35666&extension=ts&play_token=cOQato6bCn
+#EXTINF:0 tvg-id="TVN Fabula" tvg-name="TVN Fabula" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,TVN Fabula HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=16780&extension=ts&play_token=0l5qWcvXLg
+#EXTINF:0 tvg-id="VOD 205" tvg-name="VOD 205" tvg-logo="http://logo.plusx.tv/logo/VOD+205.png" timeshift="7" catchup="fs" group-title="Film" ,VOD 205
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20607&extension=ts&play_token=5XKRjwcImV
+#EXTINF:0 tvg-id="VOD 206" tvg-name="VOD 206" tvg-logo="http://logo.plusx.tv/logo/VOD+206.png" timeshift="7" catchup="fs" group-title="Film" ,VOD 206
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20606&extension=ts&play_token=sLx6Fs4a6l
+#EXTINF:0 tvg-id="VOD 207" tvg-name="VOD 207" tvg-logo="http://logo.plusx.tv/logo/VOD+207.png" timeshift="7" catchup="fs" group-title="Film" ,VOD 207
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20605&extension=ts&play_token=5KOZy5dc7C
+#EXTINF:0 tvg-id="VOD 208" tvg-name="VOD 208" tvg-logo="http://logo.plusx.tv/logo/VOD+208.png" timeshift="7" catchup="fs" group-title="Film" ,VOD 208
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=20604&extension=ts&play_token=bz9QWwAFse
+#EXTINF:0 tvg-id="TTV" tvg-name="TTV" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,TTV HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46061&extension=ts&play_token=vVgueV82Zr
+#EXTINF:0 tvg-id="TV Puls" tvg-name="TV Puls" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TV Puls HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46067&extension=ts&play_token=p5NdEb0caN
+#EXTINF:0 tvg-id="TV Republika" tvg-name="TV Republika" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png" timeshift="7" catchup="fs" group-title="Informacje" ,TV Republika
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35639&extension=ts&play_token=h6gt09ep0I
+#EXTINF:0 tvg-id="TV 4" tvg-name="TV4" tvg-logo="http://logo.plusx.tv/logo/TV%204.png" timeshift="7" catchup="fs" group-title="Popularny" ,TV 4 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=11500&extension=ts&play_token=J1CYeE4hgl
+#EXTINF:0 tvg-id="TV 6" tvg-name="TV 6" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TV 6 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46068&extension=ts&play_token=dhkUSogICs
+#EXTINF:0 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVN 24 BiS HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46099&extension=ts&play_token=5ogcBN1hSE
+#EXTINF:0 tvg-id="TVN 24" tvg-name="TVN 24" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVN 24 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46098&extension=ts&play_token=H7cAIBLBQZ
+#EXTINF:0 tvg-id="TVN 7" tvg-name="TVN 7" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVN 7 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46075&extension=ts&play_token=jdSzK1clVG
+#EXTINF:0 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVN HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46059&extension=ts&play_token=12bSyRRaoR
+#EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,TVN Style HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46104&extension=ts&play_token=y8ImFuGTNS
+#EXTINF:0 tvg-id="TVN Turbo" tvg-name="TVN Turbo" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,TVN Turbo HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=25363&extension=ts&play_token=SzY2FPS1uD
+#EXTINF:0 tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46069&extension=ts&play_token=hyZh6ZwrNo
+#EXTINF:0 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46063&extension=ts&play_token=lk7DKfFcay
+#EXTINF:0 tvg-id="TVP 2" tvg-name="TVP 2" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46064&extension=ts&play_token=af5oPy5trJ
+#EXTINF:0 tvg-id="TVP ABC" tvg-name="TVP-ABC" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,TVP ABC
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=33668&extension=ts&play_token=Hho7085V5Z
+#EXTINF:0 tvg-id="TVP Historia" tvg-name="TVP Historia" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP Historia
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=16779&extension=ts&play_token=pfLN8ah7L9
+#EXTINF:0 tvg-id="TVP Info" tvg-name="TVP-Info" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png" timeshift="7" catchup="fs" group-title="Informacje" ,TVP Info HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46100&extension=ts&play_token=zbqm6fRbVv
+#EXTINF:0 tvg-id="TVP Kultura" tvg-name="TVP-Kultura" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP Kultura
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26517&extension=ts&play_token=Rm6fDn1Gu5
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP Rozrywka
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=26519&extension=ts&play_token=APopcIA2Wg
+#EXTINF:0 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVP Seriale
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=16776&extension=ts&play_token=24aqq3ab5q
+#EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,TVP Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=18016&extension=ts&play_token=yxC3x6RtOw
+#EXTINF:0 tvg-id="TVS" tvg-name="TVS (HD)" tvg-logo="http://logo.plusx.tv/logo/TVS.png" timeshift="7" catchup="fs" group-title="Popularny" ,TVS
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35632&extension=ts&play_token=WjGrWHZUtQ
+#EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Travel Channel HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35665&extension=ts&play_token=dQPuafhDsR
+#EXTINF:0 tvg-id="WP" tvg-name="WP" tvg-logo="http://logo.plusx.tv/logo/WP.png" timeshift="7" catchup="fs" group-title="Popularny" ,WP
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35628&extension=ts&play_token=qzLYfgaPnz
+#EXTINF:0 tvg-id="Wydarzenia 24" tvg-name="Wydarzenia 24" tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png" timeshift="7" catchup="fs" group-title="Informacje" ,Wydarzenia 24
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=46108&extension=ts&play_token=OomEiPoYuo
+#EXTINF:0 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png" timeshift="7" catchup="fs" group-title="Popularny" ,Zoom TV
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=35630&extension=ts&play_token=bceE6JxIuZ
+#EXTINF:0 tvg-id="KSW.pl" tvg-name="KSWTV" tvg-logo="https://epg.ovh/logo/KSW.png" timeshift="7" catchup="fs" group-title="Sport" ,KSW FAME MMA HD
+#EXTINF:0 tvg-id="VIAPLAY" tvg-name="VIAPLAY" tvg-logo="http://logo.plusx.tv/logo/Sky_Master_Brand_Logo_SMALL_RGB.png" timeshift="7" catchup="fs" group-title="Fußball Bundesliga" ,Sky Sport 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:BF:95:34&stream=29926&extension=ts&play_token=VDMp8o17Sl
+
