@@ -1,491 +1,282 @@
-#EXTM3U
-EXTINF:-1,..::Pobrano z Darmowe-IPTV.eeu.PL::..
-https://leszek2301.github.io/pliki_leszek4231/darmoweiptv.mp4
-#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="PL: Polsat Play HD" tvg-logo="https://static.epg.best/pl/PolsatPlay.pl.png" group-title="Poland Channels",PL: Polsat Play HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/15996
-#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: 13 Ulica FHD" tvg-logo="https://static.epg.best/pl/13Ulica.pl.png" group-title="Poland Channels",PL: 13 Ulica FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57696
-#EXTINF:-1 tvg-id="4fundance.pl" tvg-name="PL: 4Fun Dance" tvg-logo="https://static.epg.best/pl/4FunFitDance.pl.png" group-title="Poland Channels",PL: 4Fun Dance
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57719
-#EXTINF:-1 tvg-id="4funkids.pl" tvg-name="PL: 4Fun Kids " tvg-logo="https://www.lyngsat.com/logo/tv/num/4-fun-kids-pl.png" group-title="Poland Channels",PL: 4Fun Kids 
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57720
-#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="PL: 4FUN TV" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" group-title="Poland Channels",PL: 4FUN TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57718
-#EXTINF:-1 tvg-id="alekino.pl" tvg-name="PL: Ale Kino HD" tvg-logo="https://static.epg.best/pl/AleKino.pl.png" group-title="Poland Channels",PL: Ale Kino HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12809
-#EXTINF:-1 tvg-id="amc.pl" tvg-name="PL: AMC" tvg-logo="https://static.epg.best/pl/AMC.pl.png" group-title="Poland Channels",PL: AMC
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57726
-#EXTINF:-1 tvg-id="animalplanet.pl" tvg-name="PL: Animal Planet HD" tvg-logo="https://static.epg.best/pl/AnimalPlanet.pl.png" group-title="Poland Channels",PL: Animal Planet HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12808
-#EXTINF:-1 tvg-id="13.pl" tvg-name="PL: ATM Rozrywka TV" tvg-logo="https://static.epg.best/pl/ATMRozrywka.pl.png" group-title="Poland Channels",PL: ATM Rozrywka TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57736
-#EXTINF:-1 tvg-id="axnblack.pl" tvg-name="PL: AXN BLACK" tvg-logo="https://static.epg.best/pl/AXNBlack.pl.png" group-title="Poland Channels",PL: AXN BLACK
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57722
-#EXTINF:-1 tvg-id="axn.pl" tvg-name="PL: AXN HD" tvg-logo="https://static.epg.best/pl/AXN.pl.png" group-title="Poland Channels",PL: AXN HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12807
-#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="PL: AXN White" tvg-logo="https://static.epg.best/pl/AXNWhite.pl.png" group-title="Poland Channels",PL: AXN White
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57721
-#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL: BBC Lifestyle HD" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="Poland Channels",PL: BBC Lifestyle HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/173941
-#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL: BBC Brit HD" tvg-logo="https://static.epg.best/pl/BBCBrit.pl.png" group-title="Poland Channels",PL: BBC Brit HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57700
-#EXTINF:-1 tvg-id="bbccbeebies.pl" tvg-name="PL: BBC Cbeebies" tvg-logo="https://static.epg.best/pl/BBCCbeebies.pl.png" group-title="Poland Channels",PL: BBC Cbeebies
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57713
-#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL: BBC Earth HD" tvg-logo="https://static.epg.best/pl/BBCEarth.pl.png" group-title="Poland Channels",PL: BBC Earth HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12814
-#EXTINF:-1 tvg-id="bbcfirst.pl" tvg-name="PL: BBC First FHD" tvg-logo="https://static.epg.best/pl/BBC.pl.png" group-title="Poland Channels",PL: BBC First FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12813
-#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL: Boomerang HD" tvg-logo="https://static.epg.best/pl/Boomerang.pl.png" group-title="Poland Channels",PL: Boomerang HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12806
-#EXTINF:-1 tvg-id="canalplus1.pl" tvg-name="PL: Canal+1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Canal+_1_PL.png" group-title="Poland Channels",PL: Canal+1 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12733
-#EXTINF:-1 tvg-id="canalplusdokumenttv.pl" tvg-name="PL: Canal+ Dokument HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/CANAL+_DOKUMENT.png" group-title="Poland Channels",PL: Canal+ Dokument HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12802
-#EXTINF:-1 tvg-id="canalplusfamily.pl" tvg-name="PL: Canal+ Family HD" tvg-logo="https://static.epg.best/pl/CanalPlusFamily.pl.png" group-title="Poland Channels",PL: Canal+ Family HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/15994
-#EXTINF:-1 tvg-id="canalplusfilm.pl" tvg-name="PL: Canal+ Film HD" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" group-title="Poland Channels",PL: Canal+ Film HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/15995
-#EXTINF:-1 tvg-id="canalpluskuchina.pl" tvg-name="PL: Canal+ Kuchnia HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Canal+_Kuchnia_(2021-.n.v.).png" group-title="Poland Channels",PL: Canal+ Kuchnia HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11245
-#EXTINF:-1 tvg-id="canalpluspremium.pl" tvg-name="PL: Canal+ Premium HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/14/Canal+_Premium_(2020-.n.v.).png" group-title="Poland Channels",PL: Canal+ Premium HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12801
-#EXTINF:-1 tvg-id="canalplusseriale.pl" tvg-name="PL: Canal+ Seriale  HD" tvg-logo="https://static.epg.best/pl/CanalPlusSeriale.pl.png" group-title="Poland Channels",PL: Canal+ Seriale  HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12805
-#EXTINF:-1 tvg-id="cbseuropa.pl" tvg-name="PL: CBS Europa HD" tvg-logo="https://static.epg.best/pl/CBSEuropa.pl.png" group-title="Poland Channels",PL: CBS Europa HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12811
-#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="PL: CBS Reality" tvg-logo="https://static.epg.best/pl/CBSReality.pl.png" group-title="Poland Channels",PL: CBS Reality
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12812
-#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="PL: Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="Poland Channels",PL: Cinemax HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12788
-#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL: Cinemax 2 HD" tvg-logo="https://static.epg.best/pl/Cinemax2.pl.png" group-title="Poland Channels",PL: Cinemax 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12815
-#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="PL: Comedy Central HD" tvg-logo="https://static.epg.best/pl/ComedyCentral.pl.png" group-title="Poland Channels",PL: Comedy Central HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57712
-#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="PL: Cartoon Network HD" tvg-logo="https://static.epg.best/au/CartoonNetwork.au.png" group-title="Poland Channels",PL: Cartoon Network HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12816
-#EXTINF:-1 tvg-id="cipolsat.pl" tvg-name="PL: Crime+Investigation TV HD" tvg-logo="https://static.epg.best/ro/CrimeInvestigation.ro.png" group-title="Poland Channels",PL: Crime+Investigation TV HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57707
-#EXTINF:-1 tvg-id="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="https://static.epg.best/pl/DaVinciLearning.pl.png" group-title="Poland Channels",PL: Da Vinci Learning
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12817
-#EXTINF:-1 tvg-id="discopolomusic.pl" tvg-name="PL: Disco Polo Music" tvg-logo="https://static.epg.best/pl/DiscoPoloMusic.pl.png" group-title="Poland Channels",PL: Disco Polo Music
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12818
-#EXTINF:-1 tvg-id="investigationdiscovery.pl" tvg-name="PL: ID HD" tvg-logo="https://static.epg.best/pl/InvestigationDiscovery.pl.png" group-title="Poland Channels",PL: ID HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/52637
-#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL: Discovery Channel HD" tvg-logo="https://static.epg.best/pl/Discovery.pl.png" group-title="Poland Channels",PL: Discovery Channel HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12786
-#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="PL: Discovery Historia" tvg-logo="https://static.epg.best/pl/DiscoveryHistoria.pl.png" group-title="Poland Channels",PL: Discovery Historia
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57703
-#EXTINF:-1 tvg-id="discoverylife.pl" tvg-name="PL: Discovery Life HD" tvg-logo="https://static.epg.best/pl/DiscoveryLife.pl.png" group-title="Poland Channels",PL: Discovery Life HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12820
-#EXTINF:-1 tvg-id="discoveryscience.pl" tvg-name="PL: Discovery Science HD" tvg-logo="https://static.epg.best/cz/DiscoveryScience.cz.png" group-title="Poland Channels",PL: Discovery Science HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12785
-#EXTINF:-1 tvg-id="nicktoons.pl" tvg-name="PL: Nicktoons HD" tvg-logo="https://static.epg.best/de/Nicktoons.de.png" group-title="Poland Channels",PL: Nicktoons HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12784
-#EXTINF:-1 tvg-id="disneyjunior.pl" tvg-name="PL: Disney Junior" tvg-logo="https://static.epg.best/pl/DisneyJunior.pl.png" group-title="Poland Channels",PL: Disney Junior
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12821
-#EXTINF:-1 tvg-id="disneyxd.pl" tvg-name="PL: Disney XD" tvg-logo="https://static.epg.best/pl/DisneyXD.pl.png" group-title="Poland Channels",PL: Disney XD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12822
-#EXTINF:-1 tvg-id="domo.pl" tvg-name="PL: Canal+ Domo HD" tvg-logo="https://static.epg.best/pl/Domo.pl.png" group-title="Poland Channels",PL: Canal+ Domo HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/117669
-#EXTINF:-1 tvg-id="discoveryturboxtra.pl" tvg-name="PL: DTX HD" tvg-logo="https://static.epg.best/cz/DTX.cz.png" group-title="Poland Channels",PL: DTX HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12823
-#EXTINF:-1 tvg-id="eentertainment.pl" tvg-name="PL: E! Entertainment HD" tvg-logo="https://static.epg.best/sa/EEntertainmentEn.sa.png" group-title="Poland Channels",PL: E! Entertainment HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12824
-#EXTINF:-1 tvg-id="epicdramahd.pl" tvg-name="PL: Epic Drama HD" tvg-logo="https://static.epg.best/hr/EpicDrama.hr.png" group-title="Poland Channels",PL: Epic Drama HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12734
-#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="PL: Eska TV" tvg-logo="https://static.epg.best/pl/EskaTV.pl.png" group-title="Poland Channels",PL: Eska TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57715
-#EXTINF:-1 tvg-id="eskatvextra.pl" tvg-name="PL: Eska TV Extra" tvg-logo="" group-title="Poland Channels",PL: Eska TV Extra
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12825
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox HD" tvg-logo="https://static.epg.best/pl/FightBox.pl.png" group-title="Poland Channels",PL: Fightbox HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12778
-#EXTINF:-1 tvg-id="filmboxaction.pl" tvg-name="PL: Filmbox Action HD" tvg-logo="https://static.epg.best/pl/FilmBoxAction.pl.png" group-title="Poland Channels",PL: Filmbox Action HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/15997
-#EXTINF:-1 tvg-id="filmboxarthouse.pl" tvg-name="PL: Filmbox Arthouse" tvg-logo="https://static.epg.best/pl/FilmBoxArtHouse.pl.png" group-title="Poland Channels",PL: Filmbox Arthouse
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12773
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="PL: Filmbox Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Filmbox_extra_pl.png" group-title="Poland Channels",PL: Filmbox Extra HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12727
-#EXTINF:-1 tvg-id="filmboxfamily.pl" tvg-name="PL: FilmBox Family HD" tvg-logo="https://static.epg.best/cz/FilmboxFamily.cz.png" group-title="Poland Channels",PL: FilmBox Family HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12726
-#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="PL: FilmBox Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/FilmBox_Premium_HD_logo.png" group-title="Poland Channels",PL: FilmBox Premium HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12725
-#EXTINF:-1 tvg-id="fokustv.pl" tvg-name="PL: Fokus TV" tvg-logo="https://static.epg.best/pl/FokusTV.pl.png" group-title="Poland Channels",PL: Fokus TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12774
-#EXTINF:-1 tvg-id="foodnetwork.pl" tvg-name="PL: Food Network HD" tvg-logo="https://static.epg.best/pl/FoodNetwork.pl.png" group-title="Poland Channels",PL: Food Network HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57727
-#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="PL: Fox Comedy HD" tvg-logo="https://static.epg.best/pl/FoxComedy.pl.png" group-title="Poland Channels",PL: Fox Comedy HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57724
-#EXTINF:-1 tvg-id="fox.pl" tvg-name="PL: FOX HD" tvg-logo="https://static.epg.best/pl/FOX.pl.png" group-title="Poland Channels",PL: FOX HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12775
-#EXTINF:-1 tvg-id="golfchannel.pl" tvg-name="PL: Golf Channel HD" tvg-logo="https://static.epg.best/mx/GolfChannel.mx.png" group-title="Poland Channels",PL: Golf Channel HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12776
-#EXTINF:-1 tvg-id="hbo.pl" tvg-name="PL: HBO HD" tvg-logo="https://static.epg.best/hu/HBO.hu.png" group-title="Poland Channels",PL: HBO HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12722
-#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="https://static.epg.best/hu/HBO2.hu.png" group-title="Poland Channels",PL: HBO 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12723
-#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="PL: HBO 3 HD" tvg-logo="https://static.epg.best/hu/HBO3.hu.png" group-title="Poland Channels",PL: HBO 3 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12724
-#EXTINF:-1 tvg-id="warnertv.pl" tvg-name="PL: Warner TV HD" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png" group-title="Poland Channels",PL: Warner TV HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57735
-#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL: HGTV HD" tvg-logo="https://static.epg.best/it/HGTV.it.png" group-title="Poland Channels",PL: HGTV HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57693
-#EXTINF:-1 tvg-id="history2.pl" tvg-name="PL: History 2 HD" tvg-logo="https://static.epg.best/rs/HistoryChannel2.rs.png" group-title="Poland Channels",PL: History 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57704
-#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: History HD" tvg-logo="https://static.epg.best/pl/History.pl.png" group-title="Poland Channels",PL: History HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57705
-#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL: Kino Polska" tvg-logo="https://static.epg.best/pl/KinoPolska.pl.png" group-title="Poland Channels",PL: Kino Polska
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12772
-#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="PL: Kino Polska" tvg-logo="https://static.epg.best/pl/KinoPolska.pl.png" group-title="Poland Channels",PL: Kino Polska
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12827
-#EXTINF:-1 tvg-id="kinopolskamuzyka.pl" tvg-name="PL: Kino Polska Muzyka" tvg-logo="https://static.epg.best/pl/KinoPolskaMuzyka.pl.png" group-title="Poland Channels",PL: Kino Polska Muzyka
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12828
-#EXTINF:-1 tvg-id="kinotv.pl" tvg-name="PL: Kino Tv" tvg-logo="https://static.epg.best/hr/Kinotv.hr.png" group-title="Poland Channels",PL: Kino Tv
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12829
-#EXTINF:-1 tvg-id="kuchniaplus.pl" tvg-name="PL: Kuchnia+ HD" tvg-logo="https://static.epg.best/pl/KuchniaPlus.pl.png" group-title="Poland Channels",PL: Kuchnia+ HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12771
-#EXTINF:-1 tvg-id="activefamily.pl" tvg-name="PL: Active Family" tvg-logo="https://www.lyngsat.com/logo/tv/aa/active_family_pl.png" group-title="Poland Channels",PL: Active Family
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12830
-#EXTINF:-1 tvg-id="metro.pl" tvg-name="PL: Metro" tvg-logo="https://static.epg.best/pl/Metro.pl.png" group-title="Poland Channels",PL: Metro
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12831
-#EXTINF:-1 tvg-id="minimini.pl" tvg-name="PL: MiniMini  HD" tvg-logo="https://static.epg.best/pl/Minimini.pl.png" group-title="Poland Channels",PL: MiniMini  HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12832
-#EXTINF:-1 tvg-id="minimini.pl" tvg-name="PL: MiniMini FHD" tvg-logo="https://static.epg.best/pl/Minimini.pl.png" group-title="Poland Channels",PL: MiniMini FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12770
-#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL: Motowizja FHD" tvg-logo="https://static.epg.best/pl/MotowizjaTV.pl.png" group-title="Poland Channels",PL: Motowizja FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57698
-#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="PL: MTV Polska HD" tvg-logo="https://static.epg.best/pl/MTVPolska.pl.png" group-title="Poland Channels",PL: MTV Polska HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12790
-#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: Nat Geo FHD" tvg-logo="https://static.epg.best/sa/NationalGeographic.sa.png" group-title="Poland Channels",PL: Nat Geo FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12766
-#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: Nat Geo People FHD" tvg-logo="https://static.epg.best/pl/NatGeoPeople.pl.png" group-title="Poland Channels",PL: Nat Geo People FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12791
-#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="PL: Nat Geo Wild FHD" tvg-logo="https://static.epg.best/sa/NatGeoWild.sa.png" group-title="Poland Channels",PL: Nat Geo Wild FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12765
-#EXTINF:-1 tvg-id="nickjr.pl" tvg-name="PL: NICK JR POLSKA" tvg-logo="https://static.epg.best/pl/NickJr.pl.png" group-title="Poland Channels",PL: NICK JR POLSKA
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57711
-#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="PL: Nickelodeon" tvg-logo="https://static.epg.best/pl/Nickelodeon.pl.png" group-title="Poland Channels",PL: Nickelodeon
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57710
-#EXTINF:-1 tvg-id="novela.pl" tvg-name="PL: Novela tv" tvg-logo="http://ocdn.eu/images/program-tv/ZTU7MDA_/aa079df1d501cb3d836ee3dcc7462b74.png" group-title="Poland Channels",PL: Novela tv
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12728
-#EXTINF:-1 tvg-id="novelasplus.pl" tvg-name="PL: Novelas+ HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c0/Novelas+_(2020-.n.v.).png" group-title="Poland Channels",PL: Novelas+ HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12729
-#EXTINF:-1 tvg-id="nowatv.pl" tvg-name="PL: Nowa TV" tvg-logo="http://ideaventures.pl/wp-content/uploads/2017/03/nova_tv_logo_podstawowe_v12_duze-01.png" group-title="Poland Channels",PL: Nowa TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12792
-#EXTINF:-1 tvg-id="nutatv.pl" tvg-name="PL: Nuta TV" tvg-logo="https://static.epg.best/pl/NutaTV.pl.png" group-title="Poland Channels",PL: Nuta TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57733
-#EXTINF:-1 tvg-id="paramount.pl" tvg-name="PL: Paramount Channel HD" tvg-logo="https://static.epg.best/pl/ParamountChannel.pl.png" group-title="Poland Channels",PL: Paramount Channel HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12793
-#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL: Planet+ HD" tvg-logo="https://static.epg.best/pl/Planete.pl.png" group-title="Poland Channels",PL: Planet+ HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57702
-#EXTINF:-1 tvg-id="polotv.pl" tvg-name="PL: Polo TV" tvg-logo="https://static.epg.best/pl/PoloTV.pl.png" group-title="Poland Channels",PL: Polo TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12795
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="PL: Polsat 2 HD" tvg-logo="https://static.epg.best/pl/Polsat2.pl.png" group-title="Poland Channels",PL: Polsat 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12763
-#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="PL: Polsat Cafe HD" tvg-logo="https://static.epg.best/pl/PolsatCafe.pl.png" group-title="Poland Channels",PL: Polsat Cafe HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12762
-#EXTINF:-1 tvg-id="polsatdoku.pl" tvg-name="PL: Polsat Doku FHD" tvg-logo="https://static.epg.best/pl/PolsatDoku.pl.png" group-title="Poland Channels",PL: Polsat Doku FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12751
-#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="PL: Polsat Film HD" tvg-logo="https://static.epg.best/pl/PolsatFilm.pl.png" group-title="Poland Channels",PL: Polsat Film HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12761
-#EXTINF:-1 tvg-id="polsat.pl" tvg-name="PL: Polsat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/b/b8/Polsat_HD_-_Logo.png" group-title="Poland Channels",PL: Polsat HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12760
-#EXTINF:-1 tvg-id="jimjam.pl" tvg-name="PL: Polsat Jim Jam" tvg-logo="https://static.epg.best/pl/JimJam.pl.png" group-title="Poland Channels",PL: Polsat Jim Jam
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12759
-#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="PL: Polsat News HD" tvg-logo="https://static.epg.best/pl/PolsatNews.pl.png" group-title="Poland Channels",PL: Polsat News HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12758
-#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="PL: Polsat News 2 HD" tvg-logo="https://static.epg.best/pl/PolsatNews2.pl.png" group-title="Poland Channels",PL: Polsat News 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/78792
-#EXTINF:-1 tvg-id="polsatviasatexpl.pl" tvg-name="PL: Polsat Viasat Explore HD" tvg-logo="https://static.epg.best/pl/ViasatExplore.pl.png" group-title="Poland Channels",PL: Polsat Viasat Explore HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12755
-#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="PL: Polsat Viasat History HD" tvg-logo="https://static.epg.best/pl/ViasatHistory.pl.png" group-title="Poland Channels",PL: Polsat Viasat History HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12756
-#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="PL: Polsat Viasat Nature HD" tvg-logo="https://static.epg.best/hr/ViasatNature.hr.png" group-title="Poland Channels",PL: Polsat Viasat Nature HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12757
-#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="PL: Puls 2 HD" tvg-logo="https://static.epg.best/pl/TVPuls2.pl.png" group-title="Poland Channels",PL: Puls 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12797
-#EXTINF:-1 tvg-id="romancetv.pl" tvg-name="PL: Romance TV Polska" tvg-logo="https://static.epg.best/pl/RomanceTV.pl.png" group-title="Poland Channels",PL: Romance TV Polska
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12753
-#EXTINF:-1 tvg-id="starstv.pl" tvg-name="PL: Stars TV" tvg-logo="https://static.epg.best/pl/StarsTV.pl.png" group-title="Poland Channels",PL: Stars TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57734
-#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="PL: Stopklatka TV" tvg-logo="https://static.epg.best/pl/Stopklatka.pl.png" group-title="Poland Channels",PL: Stopklatka TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12750
-#EXTINF:-1 tvg-id="sundancetv.pl" tvg-name="PL: SUNDANCE TV" tvg-logo="https://static.epg.best/pt/SundanceTV.pt.png" group-title="Poland Channels",PL: SUNDANCE TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57729
-#EXTINF:-1 tvg-id="superpolsat.pl" tvg-name="PL: Super Polsat HD" tvg-logo="https://static.epg.best/pl/SuperPolsat.pl.png" group-title="Poland Channels",PL: Super Polsat HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57725
-#EXTINF:-1 tvg-id="tele5.pl" tvg-name="PL: Tele 5" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ef/Tele_5_(2012-.n.v.).png" group-title="Poland Channels",PL: Tele 5
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12783
-#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="PL: TELETOON+ HD" tvg-logo="https://static.epg.best/pl/Teletoon.pl.png" group-title="Poland Channels",PL: TELETOON+ HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57709
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Telewizja Republika" tvg-logo="https://static.wirtualnemedia.pl/media/top/tvrepublika-2017logo655_1507554857.png" group-title="Poland Channels",PL: Telewizja Republika
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/16017
-#EXTINF:-1 tvg-id="tlc.pl" tvg-name="PL: TLC HD" tvg-logo="https://static.epg.best/pl/TLC.pl.png" group-title="Poland Channels",PL: TLC HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12749
-#EXTINF:-1 tvg-id="tnt.pl" tvg-name="PL: TNT HD" tvg-logo="https://static.epg.best/ro/TNT.ro.png" group-title="Poland Channels",PL: TNT HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57714
-#EXTINF:-1 tvg-id="sci.fi.pl" tvg-name="PL: SCI FI HD" tvg-logo="https://static.epg.best/hr/SciFi.hr.png" group-title="Poland Channels",PL: SCI FI HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/16019
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="PL: TTV HD" tvg-logo="https://static.epg.best/pl/TTV.pl.png" group-title="Poland Channels",PL: TTV HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57731
-#EXTINF:-1 tvg-id="tv4.pl" tvg-name="PL: TV 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Tv-4-hd.jpg" group-title="Poland Channels",PL: TV 4 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12748
-#EXTINF:-1 tvg-id="tv6.pl" tvg-name="PL: TV 6 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TV6_PL_PL_logo.png" group-title="Poland Channels",PL: TV 6 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12747
-#EXTINF:-1 tvg-id="redcarpet.pl" tvg-name="PL: Red Carpet TV FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Red_Carpet_TV_PL_PL_logo.png" group-title="Poland Channels",PL: Red Carpet TV FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12764
-#EXTINF:-1 tvg-id="adventure.pl" tvg-name="PL: Adventure HD" tvg-logo="https://static.epg.best/pl/Adventure.pl.png" group-title="Poland Channels",PL: Adventure HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/16018
-#EXTINF:-1 tvg-id="tv.puls.pl" tvg-name="PL: TV Puls HD" tvg-logo="https://static.epg.best/pl/TVPuls.pl.png" group-title="Poland Channels",PL: TV Puls HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57730
-#EXTINF:-1 tvg-id="tvrepublika.pl" tvg-name="PL: TV Republika" tvg-logo="https://static.epg.best/pl/TVRepublika.pl.png" group-title="Poland Channels",PL: TV Republika
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57695
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24 Bis HD" tvg-logo="https://static.epg.best/pl/TVN24BiznesSwiat.pl.png" group-title="Poland Channels",PL: TVN 24 Bis HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/75915
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24 HD" tvg-logo="https://static.epg.best/pl/TVN24.pl.png" group-title="Poland Channels",PL: TVN 24 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12746
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="PL: TVN 7 HD" tvg-logo="http://ocdn.eu/images/program-tv/NzM7MDA_/1f28e9060de3f361be48339975f0323d.png" group-title="Poland Channels",PL: TVN 7 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57694
-#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="PL: Tvn Fabula HD" tvg-logo="https://static.epg.best/pl/TVNFabula.pl.png" group-title="Poland Channels",PL: Tvn Fabula HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12745
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL: TVN FHD" tvg-logo="https://static.epg.best/pl/TVN.pl.png" group-title="Poland Channels",PL: TVN FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12744
-#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="PL: TVN Style" tvg-logo="https://static.epg.best/pl/TVNStyle.pl.png" group-title="Poland Channels",PL: TVN Style
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12743
-#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL: TVN Turbo HD" tvg-logo="https://static.epg.best/pl/TVNTurbo.pl.png" group-title="Poland Channels",PL: TVN Turbo HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/45462
-#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="https://static.epg.best/pl/TVP1.pl.png" group-title="Poland Channels",PL: TVP 1 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12742
-#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 HD" tvg-logo="https://static.epg.best/pl/TVP2.pl.png" group-title="Poland Channels",PL: TVP 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12741
-#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL: TVP 3 " tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Poland Channels",PL: TVP 3 
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12740
-#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="PL: TVP ABC" tvg-logo="https://static.epg.best/pl/TVPABC.pl.png" group-title="Poland Channels",PL: TVP ABC
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57708
-#EXTINF:-1 tvg-id="tvp.pl" tvg-name="PL: TVP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/TVP_PL_logo.png" group-title="Poland Channels",PL: TVP FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/126259
-#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="PL: TVP Historia" tvg-logo="https://static.epg.best/pl/TVPHistoria.pl.png" group-title="Poland Channels",PL: TVP Historia
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12739
-#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="PL: TVP Kultura HD" tvg-logo="https://static.epg.best/pl/TVPKultura.pl.png" group-title="Poland Channels",PL: TVP Kultura HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57706
-#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-name="PL: TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TVP_Polonia_new_logo.png" group-title="Poland Channels",PL: TVP Polonia
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12738
-#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="PL: TVP Rozrywka" tvg-logo="https://static.epg.best/pl/TVPRozrywka.pl.png" group-title="Poland Channels",PL: TVP Rozrywka
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57692
-#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="PL: TVP Seriale" tvg-logo="https://static.epg.best/pl/TVPSeriale.pl.png" group-title="Poland Channels",PL: TVP Seriale
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12737
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="PL: TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_(Fernsehsender)_Logo.svg/1200px-TVS_(Fernsehsender)_Logo.svg.png" group-title="Poland Channels",PL: TVS
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57716
-#EXTINF:-1 tvg-id="universal.pl" tvg-name="PL: Universal  HD" tvg-logo="https://static.epg.best/pl/UniversalChannel.pl.png" group-title="Poland Channels",PL: Universal  HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12735
-#EXTINF:-1 tvg-id="vh1.pl" tvg-name="PL: VH1" tvg-logo="https://static.epg.best/pt/VH1.pt.png" group-title="Poland Channels",PL: VH1
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57717
-#EXTINF:-1 tvg-id="eleven.sports.3.pl" tvg-name="PL: VOD 205" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png" group-title="Poland Channels",PL: VOD 205
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12730
-#EXTINF:-1 tvg-id="eleven.sports.4.pl" tvg-name="PL: VOD 206" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png" group-title="Poland Channels",PL: VOD 206
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12731
-#EXTINF:-1 tvg-id="eleven.sports.1.pl" tvg-name="PL: VOD 207" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png" group-title="Poland Channels",PL: VOD 207
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12782
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: VOD 208" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png" group-title="Poland Channels",PL: VOD 208
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12732
-#EXTINF:-1 tvg-id="voxmusic.pl" tvg-name="PL: VOX Music TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/VoxMusic-TV.png" group-title="Poland Channels",PL: VOX Music TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11249
-#EXTINF:-1 tvg-id="eskarock.pl" tvg-name="PL: Eska Rock TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eska_Rock_TV_(2017-.n.v.).png/1200px-Eska_Rock_TV_(2017-.n.v.).png" group-title="Poland Channels",PL: Eska Rock TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/16021
-#EXTINF:-1 tvg-id="wp.pl" tvg-name="PL: WP" tvg-logo="https://static.epg.best/pl/WPTelewizja.pl.png" group-title="Poland Channels",PL: WP
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57732
-#EXTINF:-1 tvg-id="zoomtv.pl" tvg-name="PL: ZOOM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Zoom_TV.png" group-title="Poland Channels",PL: ZOOM TV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11250
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="SPORT PL: Eleven Sports 1 4K" tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="PL | Sports ",SPORT PL: Eleven Sports 1 4K
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/154014
-#EXTINF:-1 tvg-id="ext" tvg-name="### ? PL | Sports ? ### " tvg-logo="" group-title="PL | Sports ",### ? PL | Sports ? ### 
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/105162
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="SPORT PL: Eleven Sports 1 HD" tvg-logo="https://static.epg.best/pl/ElevenSport1.pl.png" group-title="PL | Sports ",SPORT PL: Eleven Sports 1 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11251
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="SPORT PL: Eleven Sports 2 HD" tvg-logo="https://static.epg.best/pl/ElevenSport2.pl.png" group-title="PL | Sports ",SPORT PL: Eleven Sports 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11252
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="SPORT PL: Eleven Sports 3 HD" tvg-logo="https://static.epg.best/pl/ElevenSport3.pl.png" group-title="PL | Sports ",SPORT PL: Eleven Sports 3 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11253
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="SPORT PL: Eleven Sports 4 HD" tvg-logo="https://static.epg.best/pl/ElevenSport4.pl.png" group-title="PL | Sports ",SPORT PL: Eleven Sports 4 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11254
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="SPORT PL: EuroSport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="PL | Sports ",SPORT PL: EuroSport 1 FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12780
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="SPORT PL: EuroSport 2 FHD" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="PL | Sports ",SPORT PL: EuroSport 2 FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12781
-#EXTINF:-1 tvg-id="extremesports.pl" tvg-name="SPORT PL: Extreme Sports HD" tvg-logo="https://static.epg.best/pl/ExtremeSports.pl.png" group-title="PL | Sports ",SPORT PL: Extreme Sports HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11248
-#EXTINF:-1 tvg-id="ksw.pl" tvg-name="SPORT PL: POLSAT PPV KSW ( Live Events )" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ppv-ksw-pl.png" group-title="PL | Sports ",SPORT PL: POLSAT PPV KSW ( Live Events )
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57697
-#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="SPORT PL: Polsat Sport FHD" tvg-logo="http://ocdn.eu/images/program-tv/MTM7MDA_/54d3d9b571f97efc547c591758e0681b.png" group-title="PL | Sports ",SPORT PL: Polsat Sport FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/11246
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="SPORT PL: TVP Sport HD" tvg-logo="https://static.epg.best/pl/TVPSport.pl.png" group-title="PL | Sports ",SPORT PL: TVP Sport HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12736
-#EXTINF:-1 tvg-id="polsatsportfight.pl" tvg-name="SPORT PL: Polsat Sport Fight HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Polsat_sport_fight-1.png" group-title="PL | Sports ",SPORT PL: Polsat Sport Fight HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12754
-#EXTINF:-1 tvg-id="nsport.pl" tvg-name="SPORT PL: nSport+HD" tvg-logo="https://static.epg.best/pl/nSport.pl.png" group-title="PL | Sports ",SPORT PL: nSport+HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12768
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="SPORT PL: Canal+ Sport HD" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" group-title="PL | Sports ",SPORT PL: Canal+ Sport HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12798
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="SPORT PL: Canal+ Sport 2 HD" tvg-logo="https://static.epg.best/mu/CanalPlusSport2.mu.png" group-title="PL | Sports ",SPORT PL: Canal+ Sport 2 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12800
-#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="SPORT PL: Canal+ Sport 3 HD" tvg-logo="https://static.epg.best/mu/CanalPlusSport2.mu.png" group-title="PL | Sports ",SPORT PL: Canal+ Sport 3 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/12799
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="SPORT PL: Canal+ Sport 4 HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal+_Sport_4_(2019-.n.v.).png" group-title="PL | Sports ",SPORT PL: Canal+ Sport 4 HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/16022
-#EXTINF:-1 tvg-id="polsatsportnews.pl" tvg-name="SPORT PL: Polsat Sport News HD" tvg-logo="https://static.epg.best/pl/PolsatSportNews.pl.png" group-title="PL | Sports ",SPORT PL: Polsat Sport News HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46152
-#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="SPORT PL: Polsat Sport Premium 1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/76/Polsat_Sport_Premium_1_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 1
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46153
-#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="SPORT PL: Polsat Sport Premium 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b6/Polsat_Sport_Premium_2_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 2
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46154
-#EXTINF:-1 tvg-id="polsat.sport.premium.3.ppv.pl" tvg-name="SPORT PL: Polsat Sport Premium 3 PPV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Polsat_Sport_Premium_PPV_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 3 PPV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46155
-#EXTINF:-1 tvg-id="polsat.sport.premium.4.ppv.pl" tvg-name="SPORT PL: Polsat Sport Premium 4 PPV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Polsat_Sport_Premium_PPV_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 4 PPV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46156
-#EXTINF:-1 tvg-id="polsat.sport.premium.5.ppv.pl" tvg-name="SPORT PL: Polsat Sport Premium 5 PPV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Polsat_Sport_Premium_PPV_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 5 PPV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46157
-#EXTINF:-1 tvg-id="polsat.sport.premium.6.ppv.pl" tvg-name="SPORT PL: Polsat Sport Premium 6 PPV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d6/Polsat_Sport_Premium_PPV_(2018-.n.v.).png" group-title="PL | Sports ",SPORT PL: Polsat Sport Premium 6 PPV
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46158
-#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="SPORT PL: Polsat Sport Extra HD" tvg-logo="https://static.epg.best/pl/PolsatSportExtra.pl.png" group-title="PL | Sports ",SPORT PL: Polsat Sport Extra HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/46159
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="SPORT PL: SportKlub FHD" tvg-logo="https://static.epg.best/rs/SportKlub.rs.png" group-title="PL | Sports ",SPORT PL: SportKlub FHD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/57699
-#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="SPORT PL: Polsat Sport HD" tvg-logo="http://ocdn.eu/images/program-tv/MTM7MDA_/54d3d9b571f97efc547c591758e0681b.png" group-title="PL | Sports ",SPORT PL: Polsat Sport HD
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/52771
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 1" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 1
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176075
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 2" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 2
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176076
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 3" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 3
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176077
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 4" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 4
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176078
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 5" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 5
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176079
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 6" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 6
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176080
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 7" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 7
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176081
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 8" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 8
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176082
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 9" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 9
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176083
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 10" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 10
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176084
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 11" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 11
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176085
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 12" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 12
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176086
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 13" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 13
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176087
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 14" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 14
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176088
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 15" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 15
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176089
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 16" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 16
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176090
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 17" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 17
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176091
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 18" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 18
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176092
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 19" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 19
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176093
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: Viaplay Event 20" tvg-logo="" group-title="PL | Viaplay ",PL: Viaplay Event 20
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176094
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 1" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 1
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176095
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 2" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 2
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176096
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 3" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 3
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176097
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 4" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 4
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176098
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 5" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 5
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176099
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 6" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 6
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176100
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 7" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 7
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176101
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 8" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 8
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176102
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 9" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 9
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176103
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 10" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 10
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176104
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 11" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 11
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176105
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 12" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 12
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176106
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 13" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 13
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176107
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 14" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 14
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176108
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 15" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 15
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176109
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 16" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 16
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176110
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 17" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 17
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176111
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 18" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 18
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176112
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 19" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 19
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176113
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 20" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 20
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176114
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 21" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 21
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176115
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 22" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 22
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176116
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 23" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 23
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176117
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 24" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 24
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176118
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 25" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 25
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176119
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 26" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 26
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176120
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 27" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 27
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176121
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 28" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 28
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176122
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 29" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 29
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176123
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 30" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 30
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176124
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 31" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 31
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176125
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 32" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 32
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176126
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 33" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 33
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176127
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 34" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 34
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176128
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 35" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 35
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176129
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 36" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 36
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176130
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 37" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 37
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176131
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 38" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 38
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176132
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 39" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 39
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176133
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 40" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 40
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176134
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 41" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 41
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176135
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 42" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 42
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176136
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 43" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 43
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176137
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 44" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 44
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176138
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 45" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 45
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176139
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 46" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 46
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176140
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 47" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 47
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176141
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 48" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 48
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176142
-#EXTINF:-1 tvg-id="ext" tvg-name="PL: V Xtra 49" tvg-logo="" group-title="PL | Viaplay ",PL: V Xtra 49
-http://smartiptv.dnsco.xyz:8080/sBekh6NP2h/539687/176143
+#EXTINF:-0, ..::Pobrano z Darmowe-IPTV.eeu.PL::..
+https://leszek2301.github.io/pliki_leszek4231/darmoweiptv.ts
+#EXTINF:-1,PL: 13 Ulica FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58943
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58944
+#EXTINF:-1,PL: 4Fun TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58945
+#EXTINF:-1,PL: Adventure FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58946
+#EXTINF:-1,PL: Ale Kino FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58947
+#EXTINF:-1,PL: AMC Polska FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58948
+#EXTINF:-1,PL: Planete + FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58949
+#EXTINF:-1,PL: Animal Planet FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58950
+#EXTINF:-1,PL: AXN FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58951
+#EXTINF:-1,PL: AXN Black
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58952
+#EXTINF:-1,PL: AXN Spin FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58953
+#EXTINF:-1,PL: AXN White
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58954
+#EXTINF:-1,PL: Baby TV  [Multi-Audio]
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58955
+#EXTINF:-1,PL: BBC Earth HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58956
+#EXTINF:-1,PL: BBC First FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58957
+#EXTINF:-1,PL: Boomerang FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58958
+#EXTINF:-1,PL: Canal+ Family FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58959
+#EXTINF:-1,PL: Canal+ Film FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58960
+#EXTINF:-1,PL: Canal+ Seriale HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58962
+#EXTINF:-1,PL: Canal+ Sport FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58963
+#EXTINF:-1,PL: Canal+ Sport 2 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58966
+#EXTINF:-1,PL: Canal+ Sport 3 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58968
+#EXTINF:-1,PL: Cartoon Network FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58969
+#EXTINF:-1,PL: CBS Europa FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58970
+#EXTINF:-1,PL: CBS Reality HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58971
+#EXTINF:-1,PL: Cinemax 2 FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58972
+#EXTINF:-1,PL: Cinemax FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58973
+#EXTINF:-1,PL: Comedy Central Family Polska
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58974
+#EXTINF:-1,PL: Comedy Central
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58975
+#EXTINF:-1,PL: Da Vinci Learning
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58976
+#EXTINF:-1,PL: Discovery HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58978
+#EXTINF:-1,PL: Discovery Historia
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58979
+#EXTINF:-1,PL: Discovery Life HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58980
+#EXTINF:-1,PL: Discovery Science FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58981
+#EXTINF:-1,PL: Discovery Turbo Xtra HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58982
+#EXTINF:-1,PL: Disney Channel FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58983
+#EXTINF:-1,PL: Disney JR
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58984
+#EXTINF:-1,PL: Disney XD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58985
+#EXTINF:-1,PL: Domo+ HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58986
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58987
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58988
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58989
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58990
+#EXTINF:-1,PL: Epic Drama FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58991
+#EXTINF:-1,PL: Eurosport 1 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58992
+#EXTINF:-1,PL: EuroSport 2 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58993
+#EXTINF:-1,PL: Extreme Sports SD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58994
+#EXTINF:-1,PL: Fightbox FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58995
+#EXTINF:-1,PL: FIGHT Klub FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58996
+#EXTINF:-1,PL: Filmbox Action HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58997
+#EXTINF:-1,PL: Filmbox Arthouse
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58998
+#EXTINF:-1,PL: Filmbox Extra FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/58999
+#EXTINF:-1,PL: FilmBox Premium FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59000
+#EXTINF:-1,PL: Fokus TV HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59001
+#EXTINF:-1,PL: Fox Comedy
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59002
+#EXTINF:-1,PL: Fox FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59003
+#EXTINF:-1,PL: H2 FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59004
+#EXTINF:-1,PL: HBO 2 FHD  [Multi-Audio]
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59005
+#EXTINF:-1,PL: HBO 3 FHD  [Multi-Audio]
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59006
+#EXTINF:-1,PL: HBO FHD  [Multi-Audio]
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59007
+#EXTINF:-1,PL: HGTV FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59008
+#EXTINF:-1,PL: History FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59009
+#EXTINF:-1,PL: Investigation Discovery FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59010
+#EXTINF:-1,PL: Kino Polska HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59012
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59013
+#EXTINF:-1,PL: Kino TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59014
+#EXTINF:-1,PL: Kuchnia+ HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59016
+#EXTINF:-1,PL: Lifetime FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59017
+#EXTINF:-1,PL: Metro
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59018
+#EXTINF:-1,PL: MiniMini+ HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59019
+#EXTINF:-1,PL: MTV Live HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59020
+#EXTINF:-1,PL: Music VOX TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59021
+#EXTINF:-1,PL: National Geographic FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59022
+#EXTINF:-1,PL: National Geographic People FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59023
+#EXTINF:-1,PL: National Geographic Wild HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59024
+#EXTINF:-1,PL: Nowa TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59025
+#EXTINF:-1,PL: nSport+ HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59027
+#EXTINF:-1,PL: Nuta TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59028
+#EXTINF:-1,PL: Paramount Channel FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59029
+#EXTINF:-1,PL: Planete+ FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59030
+#EXTINF:-1,PL: Polo TV FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59031
+#EXTINF:-1,PL: Polsat 2 FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59032
+#EXTINF:-1,PL: Polsat Cafe FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59034
+#EXTINF:-1,PL: Polsat FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59035
+#EXTINF:-1,PL: Polsat Film
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59036
+#EXTINF:-1,PL: Polsat Games FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59038
+#EXTINF:-1,PL: Polsat JimJam
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59040
+#EXTINF:-1,PL: Polsat Music FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59041
+#EXTINF:-1,PL: Polsat News 2
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59043
+#EXTINF:-1,PL: Polsat News FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59044
+#EXTINF:-1,PL: Polsat Rodzina FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59045
+#EXTINF:-1,PL: Polsat Romans
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59046
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59047
+#EXTINF:-1,PL: Polsat Sport FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59048
+#EXTINF:-1,PL: Polsat Sport Fight FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59049
+#EXTINF:-1,PL: Polsat Sport Premium 1 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59051
+#EXTINF:-1,PL: Polsat Sport Premium 2 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59052
+#EXTINF:-1,PL: Polsat Viasat Explore FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59053
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59054
+#EXTINF:-1,PL: Polsat Viasat Nature FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59055
+#EXTINF:-1,PL: Power TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59056
+#EXTINF:-1,PL: Romance TV FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59057
+#EXTINF:-1,PL: Sport Klub Polska FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59058
+#EXTINF:-1,PL: Stars TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59059
+#EXTINF:-1,PL: Stopklatka TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59060
+#EXTINF:-1,PL: Sundance TV FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59061
+#EXTINF:-1,PL: Super Polsat
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59062
+#EXTINF:-1,PL: TeleToon
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59064
+#EXTINF:-1,PL: TLC FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59065
+#EXTINF:-1,PL: TNT FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59066
+#EXTINF:-1,PL: Travel Channel FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59068
+#EXTINF:-1,PL: TTV HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59070
+#EXTINF:-1,PL: TV Puls 2
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59071
+#EXTINF:-1,PL: TV Puls HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59073
+#EXTINF:-1,PL: TV Republika
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59074
+#EXTINF:-1,PL: TV4 FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59075
+#EXTINF:-1,PL: TV6 FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59076
+#EXTINF:-1,PL: TVN 24
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59077
+#EXTINF:-1,PL: TVN 7 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59081
+#EXTINF:-1,PL: TVN Fabula FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59082
+#EXTINF:-1,PL: TVN FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59083
+#EXTINF:-1,PL: TVN FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59084
+#EXTINF:-1,PL: TVN Style HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59085
+#EXTINF:-1,PL: TVN Turbo FHD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59086
+#EXTINF:-1,PL: TVP
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59087
+#EXTINF:-1,PL: TVP 1 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59088
+#EXTINF:-1,PL: TVP 2 HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59089
+#EXTINF:-1,PL: TVP 3 Warszawa
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59090
+#EXTINF:-1,PL: TVP ABC
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59091
+#EXTINF:-1,PL: TVP Historia
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59093
+#EXTINF:-1,PL: TVP Info
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59094
+#EXTINF:-1,PL: TVP Kultura
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59095
+#EXTINF:-1,PL: TVP1 Polonia
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59096
+#EXTINF:-1,PL: TVP Rozrywka
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59097
+#EXTINF:-1,PL: TVP Seriale
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59098
+#EXTINF:-1,PL: TVP Sport HD
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59099
+#EXTINF:-1,PL: TVS
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59100
+#EXTINF:-1,PL: VH1
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59101
+#EXTINF:-1,PL: Vox Music TV
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59102
+#EXTINF:-1,PL: WP
+http://iptv-tn.com:8080/@usmanmirza/streamxcode.ddns.net/59103

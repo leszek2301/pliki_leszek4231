@@ -1,291 +1,400 @@
-#EXTM3U
-#EXTINF:-1,..::Pobrano z Darmowe-IPTV.eeu.PL::..
-https://leszek2301.github.io/pliki_leszek4231/darmoweiptv.mp4
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | 13 Ulica HD" tvg-logo="" group-title="Poland",PL | 13 Ulica HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2067
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | 4Fun Dance" tvg-logo="" group-title="Poland",PL | 4Fun Dance
-http://metaip.tv:80/hagen/XmhbIExNNy/2068
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | 4Fun Kids" tvg-logo="" group-title="Poland",PL | 4Fun Kids
-http://metaip.tv:80/hagen/XmhbIExNNy/2069
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | 4Fun.TV" tvg-logo="" group-title="Poland",PL | 4Fun.TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2070
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | AXN Black" tvg-logo="" group-title="Poland",PL | AXN Black
-http://metaip.tv:80/hagen/XmhbIExNNy/2073
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | AXN HD" tvg-logo="" group-title="Poland",PL | AXN HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2074
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | AXN White" tvg-logo="" group-title="Poland",PL | AXN White
-http://metaip.tv:80/hagen/XmhbIExNNy/2075
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Animal Planet HD" tvg-logo="" group-title="Poland",PL | Animal Planet HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2076
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | BBC Earth HD" tvg-logo="" group-title="Poland",PL | BBC Earth HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2077
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | BBC FIRST" tvg-logo="" group-title="Poland",PL | BBC FIRST
-http://metaip.tv:80/hagen/XmhbIExNNy/2078
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Boomerang HD" tvg-logo="" group-title="Poland",PL | Boomerang HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2079
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ DOKUMENT HD" tvg-logo="" group-title="Poland",PL | CANAL+ DOKUMENT HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2080
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ DOMO HD" tvg-logo="" group-title="Poland",PL | CANAL+ DOMO HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2081
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ NOW" tvg-logo="" group-title="Poland",PL | CANAL+ NOW
-http://metaip.tv:80/hagen/XmhbIExNNy/2082
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ PREMIUM HD" tvg-logo="" group-title="Poland",PL | CANAL+ PREMIUM HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2083
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SPORT 2 HD" tvg-logo="" group-title="Poland",PL | CANAL+ SPORT 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2084
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SPORT 3 HD" tvg-logo="" group-title="Poland",PL | CANAL+ SPORT 3 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2085
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SPORT 4 HD" tvg-logo="" group-title="Poland",PL | CANAL+ SPORT 4 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2086
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SPORT HD" tvg-logo="" group-title="Poland",PL | CANAL+ SPORT HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2087
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+1 HD" tvg-logo="" group-title="Poland",PL | CANAL+1 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2088
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CI Polsat HD" tvg-logo="" group-title="Poland",PL | CI Polsat HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2091
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Cartoon Network HD" tvg-logo="" group-title="Poland",PL | Cartoon Network HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2092
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Cinemax 2 HD" tvg-logo="" group-title="Poland",PL | Cinemax 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2093
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Cinemax HD" tvg-logo="" group-title="Poland",PL | Cinemax HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2094
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Comedy Central HD" tvg-logo="" group-title="Poland",PL | Comedy Central HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2095
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Disco Polo Music" tvg-logo="" group-title="Poland",PL | Disco Polo Music
-http://metaip.tv:80/hagen/XmhbIExNNy/2098
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Discovery Historia" tvg-logo="" group-title="Poland",PL | Discovery Historia
-http://metaip.tv:80/hagen/XmhbIExNNy/2099
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Disney Channel HD" tvg-logo="" group-title="Poland",PL | Disney Channel HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2101
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Disney Junior" tvg-logo="" group-title="Poland",PL | Disney Junior
-http://metaip.tv:80/hagen/XmhbIExNNy/2103
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Disney XD" tvg-logo="" group-title="Poland",PL | Disney XD
-http://metaip.tv:80/hagen/XmhbIExNNy/2104
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Poland",PL | ELEVEN SPORTS 4 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2106
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eleven Sports 1 4K" tvg-logo="" group-title="Poland",PL | Eleven Sports 1 4K
-http://metaip.tv:80/hagen/XmhbIExNNy/2107
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eleven Sports 1 HD" tvg-logo="" group-title="Poland",PL | Eleven Sports 1 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2108
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eleven Sports 2 HD" tvg-logo="" group-title="Poland",PL | Eleven Sports 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2109
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="" group-title="Poland",PL | Eleven Sports 3 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2110
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Epic Drama HD" tvg-logo="" group-title="Poland",PL | Epic Drama HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2111
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eska Rock" tvg-logo="" group-title="Poland",PL | Eska Rock
-http://metaip.tv:80/hagen/XmhbIExNNy/2112
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Eska TV" tvg-logo="" group-title="Poland",PL | Eska TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2113
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | PL | Eska TV Extra" tvg-logo="" group-title="Poland",PL | PL | Eska TV Extra
-http://metaip.tv:80/hagen/XmhbIExNNy/2114
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Extreme Sports HD" tvg-logo="" group-title="Poland",PL | Extreme Sports HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2117
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | FOX HD" tvg-logo="" group-title="Poland",PL | FOX HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2118
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Fightbox HD" tvg-logo="" group-title="Poland",PL | Fightbox HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2119
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | FilmBox Action" tvg-logo="" group-title="Poland",PL | FilmBox Action
-http://metaip.tv:80/hagen/XmhbIExNNy/2120
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | FilmBox Extra HD" tvg-logo="" group-title="Poland",PL | FilmBox Extra HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2121
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | FilmBox Family" tvg-logo="" group-title="Poland",PL | FilmBox Family
-http://metaip.tv:80/hagen/XmhbIExNNy/2122
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Filmbox Arthouse" tvg-logo="" group-title="Poland",PL | Filmbox Arthouse
-http://metaip.tv:80/hagen/XmhbIExNNy/2123
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Fokus TV" tvg-logo="" group-title="Poland",PL | Fokus TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2124
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Food Network HD" tvg-logo="" group-title="Poland",PL | Food Network HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2125
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Fox Comedy HD" tvg-logo="" group-title="Poland",PL | Fox Comedy HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2126
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Golf Channel" tvg-logo="" group-title="Poland",PL | Golf Channel
-http://metaip.tv:80/hagen/XmhbIExNNy/2128
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | HBO HD" tvg-logo="" group-title="Poland",PL | HBO HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2129
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | HBO 2 HD" tvg-logo="" group-title="Poland",PL | HBO 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/10165
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | HBO 3 HD" tvg-logo="" group-title="Poland",PL | HBO 3 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/10166
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | History 2 HD" tvg-logo="" group-title="Poland",PL | History 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2131
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | History HD" tvg-logo="" group-title="Poland",PL | History HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2132
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | KINO POLSKA HD" tvg-logo="" group-title="Poland",PL | KINO POLSKA HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2134
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Kino Polska Muzyka" tvg-logo="" group-title="Poland",PL | Kino Polska Muzyka
-http://metaip.tv:80/hagen/XmhbIExNNy/2135
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Kino TV HD" tvg-logo="" group-title="Poland",PL | Kino TV HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2136
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | MTV 90s" tvg-logo="" group-title="Poland",PL | MTV 90s
-http://metaip.tv:80/hagen/XmhbIExNNy/2138
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | MTV Live HD" tvg-logo="" group-title="Poland",PL | MTV Live HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2139
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | MTV Polska HD" tvg-logo="" group-title="Poland",PL | MTV Polska HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2140
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | MiniMini+ HD" tvg-logo="" group-title="Poland",PL | MiniMini+ HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2142
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Music Box Polska" tvg-logo="" group-title="Poland",PL | Music Box Polska
-http://metaip.tv:80/hagen/XmhbIExNNy/2143
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | NATIONAL GEO HD" tvg-logo="" group-title="Poland",PL | NATIONAL GEO HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2144
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nat Geo People HD" tvg-logo="" group-title="Poland",PL | Nat Geo People HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2145
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | National Geographic Wild HD" tvg-logo="" group-title="Poland",PL | National Geographic Wild HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2146
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nick Jr" tvg-logo="" group-title="Poland",PL | Nick Jr
-http://metaip.tv:80/hagen/XmhbIExNNy/2147
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nick Music" tvg-logo="" group-title="Poland",PL | Nick Music
-http://metaip.tv:80/hagen/XmhbIExNNy/2148
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nickelodeon" tvg-logo="" group-title="Poland",PL | Nickelodeon
-http://metaip.tv:80/hagen/XmhbIExNNy/2149
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nicktoons HD" tvg-logo="" group-title="Poland",PL | Nicktoons HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2150
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Nowa TV" tvg-logo="" group-title="Poland",PL | Nowa TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2151
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Paramount Channel HD" tvg-logo="" group-title="Poland",PL | Paramount Channel HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2152
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polo TV" tvg-logo="" group-title="Poland",PL | Polo TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2153
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat 2 HD" tvg-logo="" group-title="Poland",PL | Polsat 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2154
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Cafe HD" tvg-logo="" group-title="Poland",PL | Polsat Cafe HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2155
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Comedy Central Extra" tvg-logo="" group-title="Poland",PL | Polsat Comedy Central Extra
-http://metaip.tv:80/hagen/XmhbIExNNy/2156
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Doku HD" tvg-logo="" group-title="Poland",PL | Polsat Doku HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2157
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Film HD" tvg-logo="" group-title="Poland",PL | Polsat Film HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2158
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat HD" tvg-logo="" group-title="Poland",PL | Polsat HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2160
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Jim Jam" tvg-logo="" group-title="Poland",PL | Polsat Jim Jam
-http://metaip.tv:80/hagen/XmhbIExNNy/2161
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Music HD" tvg-logo="" group-title="Poland",PL | Polsat Music HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2162
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat News 2" tvg-logo="" group-title="Poland",PL | Polsat News 2
-http://metaip.tv:80/hagen/XmhbIExNNy/2163
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat News HD" tvg-logo="" group-title="Poland",PL | Polsat News HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2164
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Rodzina" tvg-logo="" group-title="Poland",PL | Polsat Rodzina
-http://metaip.tv:80/hagen/XmhbIExNNy/2166
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Seriale HD" tvg-logo="" group-title="Poland",PL | Polsat Seriale HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2167
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport Extra HD" tvg-logo="" group-title="Poland",PL | Polsat Sport Extra HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2168
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport Fight HD" tvg-logo="" group-title="Poland",PL | Polsat Sport Fight HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2169
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport HD" tvg-logo="" group-title="Poland",PL | Polsat Sport HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2170
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport News HD" tvg-logo="" group-title="Poland",PL | Polsat Sport News HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2171
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport Premium 1" tvg-logo="" group-title="Poland",PL | Polsat Sport Premium 1
-http://metaip.tv:80/hagen/XmhbIExNNy/2172
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Sport Premium 2" tvg-logo="" group-title="Poland",PL | Polsat Sport Premium 2
-http://metaip.tv:80/hagen/XmhbIExNNy/2173
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Viasat Explore HD" tvg-logo="" group-title="Poland",PL | Polsat Viasat Explore HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2174
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Viasat History HD" tvg-logo="" group-title="Poland",PL | Polsat Viasat History HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2175
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Polsat Viasat Nature HD" tvg-logo="" group-title="Poland",PL | Polsat Viasat Nature HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2176
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Puls 2 HD" tvg-logo="" group-title="Poland",PL | Puls 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2177
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Red Carpet TV" tvg-logo="" group-title="Poland",PL | Red Carpet TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2178
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Romance TV" tvg-logo="" group-title="Poland",PL | Romance TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2179
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | STARS.TV" tvg-logo="" group-title="Poland",PL | STARS.TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2181
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | SciFi HD" tvg-logo="" group-title="Poland",PL | SciFi HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2183
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Sportklub HD" tvg-logo="" group-title="Poland",PL | Sportklub HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2184
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Stopklatka" tvg-logo="" group-title="Poland",PL | Stopklatka
-http://metaip.tv:80/hagen/XmhbIExNNy/2185
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Sundance HD" tvg-logo="" group-title="Poland",PL | Sundance HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2187
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Super Polsat" tvg-logo="" group-title="Poland",PL | Super Polsat
-http://metaip.tv:80/hagen/XmhbIExNNy/2188
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TLC HD" tvg-logo="" group-title="Poland",PL | TLC HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2189
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TTV HD" tvg-logo="" group-title="Poland",PL | TTV HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2190
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TV PULS HD" tvg-logo="" group-title="Poland",PL | TV PULS HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2192
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TV Republika" tvg-logo="" group-title="Poland",PL | TV Republika
-http://metaip.tv:80/hagen/XmhbIExNNy/2193
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TV4 HD" tvg-logo="" group-title="Poland",PL | TV4 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2194
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TV6" tvg-logo="" group-title="Poland",PL | TV6
-http://metaip.tv:80/hagen/XmhbIExNNy/2195
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVN 24 HD" tvg-logo="" group-title="Poland",PL | TVN 24 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2196
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVN 7 HD" tvg-logo="" group-title="Poland",PL | TVN 7 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2197
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVN Fabula" tvg-logo="" group-title="Poland",PL | TVN Fabula
-http://metaip.tv:80/hagen/XmhbIExNNy/2198
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVN STYLE HD" tvg-logo="" group-title="Poland",PL | TVN STYLE HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2199
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVN TURBO HD" tvg-logo="" group-title="Poland",PL | TVN TURBO HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2200
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP 1 HD" tvg-logo="" group-title="Poland",PL | TVP 1 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2201
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP 2 HD" tvg-logo="" group-title="Poland",PL | TVP 2 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2202
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP 3" tvg-logo="" group-title="Poland",PL | TVP 3
-http://metaip.tv:80/hagen/XmhbIExNNy/2203
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP ABC" tvg-logo="" group-title="Poland",PL | TVP ABC
-http://metaip.tv:80/hagen/XmhbIExNNy/2204
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP Historia" tvg-logo="" group-title="Poland",PL | TVP Historia
-http://metaip.tv:80/hagen/XmhbIExNNy/2206
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP Kultura HD" tvg-logo="" group-title="Poland",PL | TVP Kultura HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2207
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP Rozrywka" tvg-logo="" group-title="Poland",PL | TVP Rozrywka
-http://metaip.tv:80/hagen/XmhbIExNNy/2208
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP SERIALE" tvg-logo="" group-title="Poland",PL | TVP SERIALE
-http://metaip.tv:80/hagen/XmhbIExNNy/2209
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP Sport HD" tvg-logo="" group-title="Poland",PL | TVP Sport HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2210
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVS" tvg-logo="" group-title="Poland",PL | TVS
-http://metaip.tv:80/hagen/XmhbIExNNy/2211
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Travel Channel HD" tvg-logo="" group-title="Poland",PL | Travel Channel HD
-http://metaip.tv:80/hagen/XmhbIExNNy/2212
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | WP" tvg-logo="" group-title="Poland",PL | WP
-http://metaip.tv:80/hagen/XmhbIExNNy/2215
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Warner TV" tvg-logo="" group-title="Poland",PL | Warner TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2216
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Wydarzenia 24" tvg-logo="" group-title="Poland",PL | Wydarzenia 24
-http://metaip.tv:80/hagen/XmhbIExNNy/2217
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Zoom TV" tvg-logo="" group-title="Poland",PL | Zoom TV
-http://metaip.tv:80/hagen/XmhbIExNNy/2218
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | wPolsce.pl" tvg-logo="" group-title="Poland",PL | wPolsce.pl
-http://metaip.tv:80/hagen/XmhbIExNNy/2220
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SPORT 5 HD" tvg-logo="" group-title="Poland",PL | CANAL+ SPORT 5 HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7261
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Ale kino+ HD" tvg-logo="" group-title="Poland",PL | Ale kino+ HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7382
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ FAMILY HD" tvg-logo="" group-title="Poland",PL | CANAL+ FAMILY HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7383
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ FILM HD" tvg-logo="" group-title="Poland",PL | CANAL+ FILM HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7384
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ KUCHNIA" tvg-logo="" group-title="Poland",PL | CANAL+ KUCHNIA
-http://metaip.tv:80/hagen/XmhbIExNNy/7385
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | CANAL+ SERIALE HD" tvg-logo="" group-title="Poland",PL | CANAL+ SERIALE HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7386
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Motowizja HD" tvg-logo="" group-title="Poland",PL | Motowizja HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7387
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Planete+ HD" tvg-logo="" group-title="Poland",PL | Planete+ HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7389
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TeenNick" tvg-logo="" group-title="Poland",PL | TeenNick
-http://metaip.tv:80/hagen/XmhbIExNNy/7390
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | teleTOON+ HD" tvg-logo="" group-title="Poland",PL | teleTOON+ HD
-http://metaip.tv:80/hagen/XmhbIExNNy/7391
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | FilmBox Premium HD" tvg-logo="" group-title="Poland",PL | FilmBox Premium HD
-http://metaip.tv:80/hagen/XmhbIExNNy/10168
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | TVP FHD" tvg-logo="" group-title="Poland",PL | TVP FHD
-http://metaip.tv:80/hagen/XmhbIExNNy/10170
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | Fightklub FHD" tvg-logo="" group-title="Poland",PL | Fightklub FHD
-http://metaip.tv:80/hagen/XmhbIExNNy/10171
-#EXTINF:-1 tvg-id="ext" tvg-name="PL | AXN SPIN FHD" tvg-logo="" group-title="Poland",PL | AXN SPIN FHD
-http://metaip.tv:80/hagen/XmhbIExNNy/10172
+#EXTINF:-0, ..::Pobrano z Darmowe-IPTV.eeu.PL::..
+https://leszek2301.github.io/pliki_leszek4231/darmoweiptv.ts
+#EXTINF:-1,13 Ulica HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15100
+#EXTINF:-1,Adventure HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15205
+#EXTINF:-1,AMC Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15218
+#EXTINF:-1,AXN Black PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11512
+#EXTINF:-1,AXN Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11699
+#EXTINF:-1,AXN Spin HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11629
+#EXTINF:-1,AXN White PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11513
+#EXTINF:-1,Ale kino+ FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15219
+#EXTINF:-1,Animal Planet HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13540
+#EXTINF:-1,BBC Earth HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13538
+#EXTINF:-1,BBC First FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13537
+#EXTINF:-1,Boomerang HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11522
+#EXTINF:-1,Canal+ 1 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15204
+#EXTINF:-1,Canal+ Dokument FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15217
+#EXTINF:-1,Canal+ Family FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15216
+#EXTINF:-1,Canal+ Film FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15215
+#EXTINF:-1,Motowizja FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19153
+#EXTINF:-1,Canal+ Seriale FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15214
+#EXTINF:-1,WP Telewizja PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11517
+#EXTINF:-1,CBS Europa FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15202
+#EXTINF:-1,CBS Reality PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11518
+#EXTINF:-1,Canal + Premium FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13530
+#EXTINF:-1,Canal+ Sport FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13535
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15709
+#EXTINF:-1,Cartoon Network FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15203
+#EXTINF:-1,Cinemax HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15710
+#EXTINF:-1,Cinemax 2 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15099
+#EXTINF:-1,Crime & Investigation FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/24146
+#EXTINF:-1,Canal+ Domo FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15199
+#EXTINF:-1,Discovery Channel FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15213
+#EXTINF:-1,Discovery Historia PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15098
+#EXTINF:-1,Discovery Life FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11520
+#EXTINF:-1,Discovery Science FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15201
+#EXTINF:-1,Discovery Turbo Xtra FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15212
+#EXTINF:-1,Metro PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11195
+#EXTINF:-1,Disney Channel FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11523
+#EXTINF:-1,Disney Junior PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15200
+#EXTINF:-1,Disney XD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11524
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15198
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15197
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15097
+#EXTINF:-1,Eleven Sports 4 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19149
+#EXTINF:-1,Epic Drama FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19081
+#EXTINF:-1,E! FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22302
+#EXTINF:-1,Eurosport 1 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15096
+#EXTINF:-1,Eurosport 2 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15195
+#EXTINF:-1,Extreme Sports FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15194
+#EXTINF:-1,FightBox HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15095
+#EXTINF:-1,Fight Klub FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15193
+#EXTINF:-1,FilmBox Action PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11508
+#EXTINF:-1,FilmBox Family PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11509
+#EXTINF:-1,Kino TV HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11507
+#EXTINF:-1,FilmBox Premium HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11510
+#EXTINF:-1,Fokus TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12821
+#EXTINF:-1,FOX Comedy Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11698
+#EXTINF:-1,FOX Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11697
+#EXTINF:-1,H2 Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15093
+#EXTINF:-1,HBO FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13526
+#EXTINF:-1,HBO 2 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13527
+#EXTINF:-1,HBO 3 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15092
+#EXTINF:-1,History HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15091
+#EXTINF:-1,Investigation Discovery FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15211
+#EXTINF:-1,Kino Polska Muzyka PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15090
+#EXTINF:-1,Kino Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11192
+#EXTINF:-1,Canal+ Kuchnia FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15210
+#EXTINF:-1,MTV 90s PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11703
+#EXTINF:-1,MTV Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11702
+#EXTINF:-1,MTV Live HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/20424
+#EXTINF:-1,MiniMini + HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15088
+#EXTINF:-1,National Geographic FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15087
+#EXTINF:-1,National Geographic Polska PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11515
+#EXTINF:-1,National Geographic People HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15191
+#EXTINF:-1,National Geographic Wild HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15711
+#EXTINF:-1,National Geographic Wild PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11516
+#EXTINF:-1,Nick Jr. PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11706
+#EXTINF:-1,Nickelodeon PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11705
+#EXTINF:-1,Power TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15187
+#EXTINF:-1,HGTV HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11188
+#EXTINF:-1,JimJam Polsat PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11710
+#EXTINF:-1,Planete + Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15208
+#EXTINF:-1,Polo TV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/13517
+#EXTINF:-1,Polonia 1 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11711
+#EXTINF:-1,Polsat 2 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12817
+#EXTINF:-1,Polsat Café HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11198
+#EXTINF:-1,Polsat Film FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15086
+#EXTINF:-1,Polsat HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11696
+#EXTINF:-1,Polsat News 2 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11181
+#EXTINF:-1,Polsat News HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15085
+#EXTINF:-1,Polsat Doku HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/20123
+#EXTINF:-1,Polsat Music HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/21527
+#EXTINF:-1,Polsat Play HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11177
+#EXTINF:-1,Polsat Seriale FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/48712
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11201
+#EXTINF:-1,Polsat Sport Fight FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15188
+#EXTINF:-1,Polsat Sport Premium 1 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23369
+#EXTINF:-1,Polsat Sport Premium 2 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23370
+#EXTINF:-1,Polsat Sport Premium 3 PPV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23420
+#EXTINF:-1,Polsat Sport Premium 4 PPV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23421
+#EXTINF:-1,Polsat Sport Premium 5 PPV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23422
+#EXTINF:-1,Polsat Sport Premium 6 PPV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23423
+#EXTINF:-1,Polsat Sport HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11200
+#EXTINF:-1,Super Polsat HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11199
+#EXTINF:-1,Polsat Viasat History HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15084
+#EXTINF:-1,TV Puls 2 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15185
+#EXTINF:-1,Romance TV Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15207
+#EXTINF:-1,Scifi Universal FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/20124
+#EXTINF:-1,Stars TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15082
+#EXTINF:-1,Tele 5 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11630
+#EXTINF:-1,TLC HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15080
+#EXTINF:-1,Warner TV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15184
+#EXTINF:-1,TTV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15181
+#EXTINF:-1,TV 4 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11178
+#EXTINF:-1,TV 6 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19082
+#EXTINF:-1,TVP Info FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15078
+#EXTINF:-1,TVN 24 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15180
+#EXTINF:-1,TVN 7 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15179
+#EXTINF:-1,TVN Fabuła FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15178
+#EXTINF:-1,TVN FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15177
+#EXTINF:-1,TVN Style FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15176
+#EXTINF:-1,TVN Turbo FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15175
+#EXTINF:-1,TVN 24 BiS HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19152
+#EXTINF:-1,TVP 1 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12810
+#EXTINF:-1,TVP 2 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12811
+#EXTINF:-1,TVP 3 Warszawa PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15077
+#EXTINF:-1,TVP ABC PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15076
+#EXTINF:-1,TVP Historia PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15075
+#EXTINF:-1,TVP Info PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15074
+#EXTINF:-1,TVP Seriale PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11514
+#EXTINF:-1,TVP Sport FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12826
+#EXTINF:-1,TVP Kultura HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/24147
+#EXTINF:-1,TVS PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/12820
+#EXTINF:-1,Da Vinci Learning PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15182
+#EXTINF:-1,MTV 00s PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11701
+#EXTINF:-1,VOX Music TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15174
+#EXTINF:-1, Canal+ Sport 5 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15209
+#EXTINF:-1,Teletoon + FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/15206
+#EXTINF:-1,4 Fun Dance PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16291
+#EXTINF:-1,4 Fun Kids PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16290
+#EXTINF:-1,4 Fun TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16289
+#EXTINF:-1,FilmBox Arthouse PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16287
+#EXTINF:-1,Stopklatka TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16284
+#EXTINF:-1,TV Republika PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16283
+#EXTINF:-1,TVP Rozrywka PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16282
+#EXTINF:-1,VOD 205 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16279
+#EXTINF:-1,VOD 206 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16278
+#EXTINF:-1,VOD 207 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16277
+#EXTINF:-1,Zoom TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16271
+#EXTINF:-1,Sport Klub Polska HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16835
+#EXTINF:-1,TV Puls HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/16606
+#EXTINF:-1,Viasat Explore Polsat FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/18387
+#EXTINF:-1,Travel Channel FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/18389
+#EXTINF:-1,TVP FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/18392
+#EXTINF:-1,W Polsce PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/19084
+#EXTINF:-1,NickToons Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22772
+#EXTINF:-1,Comedy Central Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22771
+#EXTINF:-1,Comedy Central Extra Polsat FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22770
+#EXTINF:-1,Paramount Channel Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22769
+#EXTINF:-1,Nowa TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22768
+#EXTINF:-1,Water Planet PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22767
+#EXTINF:-1,TV Okazje PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22766
+#EXTINF:-1,Disco Polo Music PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22765
+#EXTINF:-1,Food Network FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22764
+#EXTINF:-1,Viasat Nature Polsat FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22763
+#EXTINF:-1,Polsat Sport News FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22762
+#EXTINF:-1,Baby TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/22303
+#EXTINF:-1,Eska TV Extra PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11182
+#EXTINF:-1,VOD 208 PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23299
+#EXTINF:-1,BBC Brit Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23317
+#EXTINF:-1,BBC Lifestyle Polska FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23318
+#EXTINF:-1,BBC CBeebies PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/23427
+#EXTINF:-1,Eska TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/11197
+#EXTINF:-1,Polsat Games FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/24376
+#EXTINF:-1,Polsat Rodzina FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/24377
+#EXTINF:-1,FilmBox Extra HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/27555
+#EXTINF:-1,Red Carpet FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/27543
+#EXTINF:-1,Sundance TV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/20422
+#EXTINF:-1,Golf Channel HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/27541
+#EXTINF:-1,Nuta TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/27540
+#EXTINF:-1,Canal+ Sport 3 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/28019
+#EXTINF:-1,Canal+ Sport 4 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/28020
+#EXTINF:-1,TVP Polonia HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/70346
+#EXTINF:-1,Active Family PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/20423
+#EXTINF:-1,Wydarzenia 24 FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/72668
+#EXTINF:-1,Novela TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/72669
+#EXTINF:-1,BIZNES24 HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/73733
+#EXTINF:-1,Krzysztof Krawczyk cale moje zycie [PL] [2020]
+http://sl.aabbyyzz.eu:80/movie/KoleBracet/3xVzt34785/77858.mkv
+#EXTINF:-1,Mozna panikowac [PL] [2020]
+http://sl.aabbyyzz.eu:80/movie/KoleBracet/3xVzt34785/77859.mkv
+#EXTINF:-1,Prime TIme [PL] [2021]
+http://sl.aabbyyzz.eu:80/movie/KoleBracet/3xVzt34785/77860.mkv
+#EXTINF:-1,Zabawa w chowanego [PL] [2020]
+http://sl.aabbyyzz.eu:80/movie/KoleBracet/3xVzt34785/77862.mkv
+#EXTINF:-1,Trzecia czesc nocy [PL] [1971]
+http://sl.aabbyyzz.eu:80/movie/KoleBracet/3xVzt34785/77861.mkv
+#EXTINF:-1,Eska Rock TV PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/88256
+#EXTINF:-1,Novelas + FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/88257
+#EXTINF:-1,StudioMed TV FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/88258
+#EXTINF:-1,Canal+ Now FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/29051
+#EXTINF:-1,Canal + 4K Ultra HD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/118088
+#EXTINF:-1,Eleven Sports 1 4K PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/118089
+#EXTINF:-1,TVP Dokument FHD PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/119956
+#EXTINF:-1,TVP 4K PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/82653
+#EXTINF:-1,TV TRWAM PL
+http://sl.aabbyyzz.eu:80/KoleBracet/3xVzt34785/66349
