@@ -1,1 +1,1 @@
-starem niesprawne już listy
+stare niesprawne już listy
