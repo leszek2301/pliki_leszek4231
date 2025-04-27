@@ -1,1 +1,1 @@
-stare niesprawne już listy
+tu były kiedyś listy iptv, ale może powrócą
